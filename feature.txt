@@ -1,0 +1,1 @@
+Git is a version control system and it keep the record of version of projects
